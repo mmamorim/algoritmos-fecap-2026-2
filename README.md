@@ -1,0 +1,1 @@
+# algoritmos-fecap-2026-2
