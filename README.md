@@ -8,3 +8,7 @@
     - Apresentação da Disciplina
     - Algoritmos
     - Variáveis, tipos, entrada e saída de dados
+* [Aula 02](./aula02/) (11/09) 
+    - Operadores Relacionais
+    - Operadores Lógicos 
+    - Estruturas de Decisão
