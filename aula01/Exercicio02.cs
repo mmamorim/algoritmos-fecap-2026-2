@@ -7,3 +7,4 @@ double altura = Convert.ToDouble(Console.ReadLine());
 double imc = peso / (altura*altura);
 
 Console.WriteLine("Seu IMC é "+imc);
+ 
