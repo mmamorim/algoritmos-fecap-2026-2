@@ -18,10 +18,10 @@
     - Algoritmos
     - Variáveis, tipos, entrada e saída de dados
     - Exercícios 
-        - [Exercicio01.cs](./aula01/Exercicio01.cs) [.net fiddle Ex1](https://dotnetfiddle.net/jB05Zn)
-        - [Exercicio02.cs](./aula01/Exercicio02.cs) 
-        - [Exercicio03.cs](./aula01/Exercicio03.cs) 
-        - [Exercicio04.cs](./aula01/Exercicio04.cs)   
+        - [Exercicio01.cs](./aula01/Exercicio01.cs) | ➡️ [.net fiddle Ex1](https://dotnetfiddle.net/jB05Zn)
+        - [Exercicio02.cs](./aula01/Exercicio02.cs) | ➡️ [.net fiddle Ex1](https://dotnetfiddle.net/tw19Zf)
+        - [Exercicio03.cs](./aula01/Exercicio03.cs) | ➡️ [.net fiddle Ex3](https://dotnetfiddle.net/P0sIoO)
+        - [Exercicio04.cs](./aula01/Exercicio04.cs) | ➡️ [.net fiddle Ex4](https://dotnetfiddle.net/6d3EJq)
 * [Aula 02](./aula02/) (11/09) 
     - [Slides Aula02.pdf](./aula02/Aula02.pdf)
     - Operadores Relacionais
