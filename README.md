@@ -15,3 +15,5 @@
     - Operadores Relacionais
     - Operadores Lógicos 
     - Estruturas de Decisão
+* [Aula 03](./aula03/) (18/09) 
+    - Exercícios Desvios Condicionais
