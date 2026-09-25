@@ -8,6 +8,7 @@
 > **.NET Fiddle**
 >
 > Durante as aulas, vamos usar o [.NET Fiddle](https://dotnetfiddle.net/) para > escrever e rodar código C# direto no navegador, sem precisar instalar nada.
+> Outros editores que excutam C# online [Programiz](https://www.programiz.com/csharp-programming/online-compiler/) | [onlinegdb](https://www.onlinegdb.com/online_csharp_compiler)
 > 
 > Em alguns exercícios, vou deixar aqui no repositório um link para a solução > em um fiddle. A ideia é que vocês tentem resolver por conta própria primeiro — o gabarito é só para conferência depois.
 ---
@@ -28,4 +29,9 @@
     - Operadores Lógicos 
     - Estruturas de Decisão
 * [Aula 03](./aula03/) (18/09) 
+    - Exercícios Desvios Condicionais
+    - [ExemploPar.cs](./aula03/ExemploPar.cs) 
+    - [ExercicioA301.cs](./aula03/ExercicioA301.cs) 
+    - [ExercicioA301.cs](./aula03/ExercicioA302.cs) 
+* [Aula 04](./aula04/) (25/09) 
     - Exercícios Desvios Condicionais
