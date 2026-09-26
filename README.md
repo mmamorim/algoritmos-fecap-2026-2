@@ -35,3 +35,5 @@
     - [ExercicioA301.cs](./aula03/ExercicioA302.cs) 
 * [Aula 04](./aula04/) (25/09) 
     - Exercícios Desvios Condicionais
+    - [Exercícios Reforço](./aula04/exerciciosAula04.md)
+    - [Exercício Jogo Palitinhos](./aula04/ExercicioJogoPalitinhos.md)
