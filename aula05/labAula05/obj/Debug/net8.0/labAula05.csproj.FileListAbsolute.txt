@@ -1,0 +1,15 @@
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/bin/Debug/net8.0/labAula05
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/bin/Debug/net8.0/labAula05.deps.json
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/bin/Debug/net8.0/labAula05.runtimeconfig.json
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/bin/Debug/net8.0/labAula05.dll
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/bin/Debug/net8.0/labAula05.pdb
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.GeneratedMSBuildEditorConfig.editorconfig
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.AssemblyInfoInputs.cache
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.AssemblyInfo.cs
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.csproj.CoreCompileInputs.cache
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.sourcelink.json
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.dll
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/refint/labAula05.dll
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.pdb
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/labAula05.genruntimeconfig.cache
+/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula05/labAula05/obj/Debug/net8.0/ref/labAula05.dll
