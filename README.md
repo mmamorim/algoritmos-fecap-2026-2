@@ -37,3 +37,7 @@
     - Exercícios Desvios Condicionais
     - [Exercícios Reforço](./aula04/exerciciosAula04.md)
     - [Exercício Jogo Palitinhos](./aula04/ExercicioJogoPalitinhos.md)
+* **AULA 05 - (02/10)** 
+    - Orientação ao Projeto Integrado - 1a. Entrega
+    - [Descrição PI - Entrega 1](./aula05/Enunciado–Entrega1.pdf)
+    - [Template Entrega 1](./aula05/Template_Entrega1_ALP.docx)
