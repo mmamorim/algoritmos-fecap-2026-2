@@ -4,5 +4,5 @@
 
 # Arrays (vetores)
 
-* Arrays (vetores) [Slides da Aula 06](./aula06/Aula06.pdf) 
-* [Como usar o Spectre.Console](./aula06/spectre-console.md)
+* Arrays (vetores) [Slides da Aula 06](./Aula06.pdf) 
+* [Como usar o Spectre.Console](./spectre-console.md)
