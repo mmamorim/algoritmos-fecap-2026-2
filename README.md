@@ -41,3 +41,6 @@
     - Orientação ao Projeto Integrado - 1a. Entrega
     - [Descrição PI - Entrega 1](./aula05/Enunciado–Entrega1.pdf)
     - [Template Entrega 1](./aula05/Template_Entrega1_ALP.docx)
+* [Aula 06](./aula06/) (09/10) 
+    - Arrays (vetores) [Slides da Aula 06](./aula06/Aula06.pdf) 
+    - [Como usar o Spectre.Console](./aula06/spectre-console.md)
