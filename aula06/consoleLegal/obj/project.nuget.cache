@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NND8YCJc26gU3fJ2kkSfDFlzwAf0+3fEJAMrU9oDnzZil7OwXeazzlMfcCrH0mIMVGRmx9fLCIHxrqqurpzv+Q==",
+  "success": true,
+  "projectFilePath": "/media/marcelo/20265410532B4E1A/Professor-2026/FECAP/2oSEM/Algoritmos e Lógica de Programação/algoritmos-fecap-2026-2/aula06/consoleLegal/consoleLegal.csproj",
+  "expectedPackageFiles": [
+    "/home/marcelo/.nuget/packages/spectre.console/0.57.2/spectre.console.0.57.2.nupkg.sha512",
+    "/home/marcelo/.nuget/packages/spectre.console.ansi/0.57.2/spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
