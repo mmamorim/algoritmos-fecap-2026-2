@@ -8,7 +8,11 @@ AnsiConsole.MarkupLine("[bold underline blue]Título[/]");
 
 string[] opcoes = { "Somar", "Subtrair", "Multiplicar", "Dividir", "Sair" };
 
-Console.WriteLine("--- MENU ---");
+int pos = Array.IndexOf(opcoes,"Somar");
+Console.WriteLine("Posição: "+pos);
+
+
+//Console.WriteLine("--- MENU ---");
 
 //for (int i = 0; i < opcoes.Length; i++) {
 //    Console.WriteLine(i + 1 + "- " + opcoes[i]);
@@ -28,7 +32,7 @@ Console.WriteLine("--- MENU ---");
 //}
 //AnsiConsole.Write(tabela);
 
-string opcao = AnsiConsole.Prompt(
-    new SelectionPrompt<string>()
-        .Title("Escolha uma operação:")
-        .AddChoices(opcoes));
+//string opcao = AnsiConsole.Prompt(
+//    new SelectionPrompt<string>()
+//        .Title("Escolha uma operação:")
+//        .AddChoices(opcoes));
