@@ -1,38 +1,15 @@
 ﻿using Spectre.Console;
 
-Console.WriteLine("Hello, World!");
-
 Console.Clear();
 
-AnsiConsole.MarkupLine("[bold underline blue]Título[/]");
+string[] produtos = { "Feijão", "Arroz", "Batata", "Tomate", "Cebola" };
 
-string[] opcoes = { "Somar", "Subtrair", "Multiplicar", "Dividir", "Sair" };
+string prod = AnsiConsole.Prompt(
+    new SelectionPrompt<string>()
+        .Title("Escolha um produto:")
+        .AddChoices(produtos));
 
-int pos = Array.IndexOf(opcoes,"Somar");
+Console.WriteLine("Produto: "+prod);
+
+int pos = Array.IndexOf(produtos,prod);
 Console.WriteLine("Posição: "+pos);
-
-
-//Console.WriteLine("--- MENU ---");
-
-//for (int i = 0; i < opcoes.Length; i++) {
-//    Console.WriteLine(i + 1 + "- " + opcoes[i]);
-//}
-
-//int i = 0;
-//foreach(string item in opcoes) {
-//    i++;
-//    Console.WriteLine(i + " - " + item);
-//}
-
-//var tabela = new Table();
-//tabela.AddColumn("No.");
-//tabela.AddColumn("Opção");
-//for(int i=0; i < opcoes.Length; i++) {
-//    tabela.AddRow(""+(i+1),opcoes[i]);    
-//}
-//AnsiConsole.Write(tabela);
-
-//string opcao = AnsiConsole.Prompt(
-//    new SelectionPrompt<string>()
-//        .Title("Escolha uma operação:")
-//        .AddChoices(opcoes));
